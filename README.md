@@ -16,6 +16,34 @@ The **Recipe Recommender Telegram Bot** allows users to easily find vegetarian I
 
 Check out the bot on Telegram: [Recipe Recommender Telegram Bot](https://t.me/indianreciperecommender_bot)
 
+## ⚙️ Technical Details
+
+- **Telegram API**: Used to interact with users on Telegram and send responses.
+- **AI Model**: The bot uses an OpenAI-powered AI model to interpret user messages and generate recipe suggestions.
+- **Pinecone Vector Store**: Recipes are stored and indexed in Pinecone, enabling fast and efficient retrieval.
+- **NLP**: The bot is capable of understanding natural language queries to provide relevant recipe recommendations based on user input.
+
+
+
+## 🛠️ Installation
+
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/yourusername/RecipeRecommender_Telegram_Bot.git
+   ```
+
+2. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Set up your Telegram Bot API credentials by following these steps:
+   - Create a new bot on Telegram by talking to [BotFather](https://core.telegram.org/bots#botfather).
+   - Copy the API token generated for your bot.
+
+4. Configure the bot with the necessary credentials:
+   - Set up your `credentials.json` with your Telegram API credentials and other configurations.
+
 ## 🧠 How It Works
 1. The bot listens for user messages using the Telegram API.
 2. It uses the AI agent to interpret the user's message and generate recipe recommendations.
