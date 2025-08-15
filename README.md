@@ -16,6 +16,66 @@ The **Recipe Recommender Telegram Bot** allows users to easily find vegetarian I
 
 Check out the bot on Telegram: [Recipe Recommender Telegram Bot](https://t.me/indianreciperecommender_bot)
 
+## Sample Queries
+
+1️⃣ Regional Recipes
+
+“Show me a Punjabi recipe.”
+
+“Give me a Rajasthani vegetarian dish.”
+
+“What’s a popular South Indian recipe?”
+
+“I want a Gujarati recipe for lunch.”
+
+2️⃣ Ingredients-Based Queries
+
+“I have paneer, what can I cook?”
+
+“Give me a recipe with potatoes and peas.”
+
+“Any recipes with spinach and paneer?”
+
+“I only have lentils, suggest a recipe.”
+
+3️⃣ Dish Type
+
+“I want a curry recipe.”
+
+“Suggest a dessert recipe.”
+
+“Give me a recipe for snacks.”
+
+“Any healthy salad recipes?”
+
+4️⃣ Special Occasion / Festival Recipes
+
+“Show me Diwali recipes.”
+
+“Any Navratri vegetarian dishes?”
+
+“Suggest a recipe for Onam.”
+
+“Give me a Valentine’s Day special dish.”
+
+5️⃣ Quick & Easy
+
+“I want a recipe under 30 minutes.”
+
+“Suggest a simple recipe for beginners.”
+
+“Give me an easy breakfast recipe.”
+
+6️⃣ Random / Fun Queries
+
+“Surprise me with a random recipe.”
+
+“Give me the most popular recipe.”
+
+“I’m craving something spicy.”
+
+“Suggest a kid-friendly vegetarian dish.”
+
 ## ⚙️ Technical Details
 
 - **Telegram API**: Used to interact with users on Telegram and send responses.
