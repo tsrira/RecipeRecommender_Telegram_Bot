@@ -16,6 +16,8 @@ The **Recipe Recommender Telegram Bot** allows users to easily find vegetarian I
 
 Check out the bot on Telegram: [Recipe Recommender Telegram Bot](https://t.me/indianreciperecommender_bot)
 
+Live demo of the Telegram Bot --> [Watch Video] (https://youtu.be/TkDT7mtq2cc)
+
 ## Sample Queries
 
 1️⃣ Regional Recipes
